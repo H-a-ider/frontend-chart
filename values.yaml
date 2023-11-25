@@ -1,0 +1,10 @@
+label: frontend
+replicas: 1
+deploymentName: frontend-deployment
+containerName: frontend
+containerPort: 3000
+image: zeeshan19/frontend
+tag: latest
+serviceName: frontend-service
+servicePort: 80
+serviceNodePort: 30000
