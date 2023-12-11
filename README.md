@@ -4,7 +4,7 @@ This repository contains Helm charts for deploying frontend applications on Kube
 
 ## Prerequisites
 
-Before you begin, make sure you have the following installed:
+Before you begin, make sure you have the following installed: 
 
 - [Helm](https://helm.sh/docs/intro/install/)
 
